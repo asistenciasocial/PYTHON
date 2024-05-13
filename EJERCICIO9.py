@@ -8,3 +8,5 @@ def Ejercicio9():
     print("Día: ", dia)
     print("Mes: ", mes)
     print("Año: ", año)
+
+Ejercicio9()

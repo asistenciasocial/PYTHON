@@ -9,4 +9,5 @@ def Ejercicio10():
 
     notafinal = calificacionA + calificacionB + calificacionC
     print("El promedio del estudiante es: "+ notafinal)
-#Ejercicio10
+
+Ejercicio10()

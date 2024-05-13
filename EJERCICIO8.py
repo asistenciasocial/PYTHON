@@ -2,7 +2,9 @@ def Ejercicio8():
     n1 = int(input("Ingrese un número."))
     n2 = int(input("Ingrese otro número."))
 
-    NUM1 = n1/100
-    porcentaje = n2 / NUM1
+    n2ing = n2 /100
+    n1ing = n1 /n2ing
 
-    print("El promedio es:%", porcentaje)
+    print("El promedio es:", n1ing)
+
+Ejercicio8()

@@ -10,3 +10,5 @@ def Ejercicio11():
 
     AUx = sum(autos)
     comision = AUx * 0.05
+
+Ejercicio11()

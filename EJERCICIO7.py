@@ -17,3 +17,5 @@ def Ejercicio7():
     promedio = total/6
 
     print("El promedio es: "+ promedio)
+
+Ejercicio7()
